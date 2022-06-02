@@ -1,5 +1,5 @@
 # Pang-Schematics
-Extracted schematics for Pang PCB
+Extracted schematics for Pang PCB.
 
 The schematics have been extracted from a real Capcom Mitchell Pang PCB.
 
